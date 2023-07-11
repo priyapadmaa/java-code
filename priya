@@ -1,0 +1,11 @@
+public class arraydemo{
+public static void main (string[] args){
+int[] x;
+x=new int[5];
+x[0]=11;
+x[4]=22;
+system.out.println("element at index 0:"+x[0]);
+system.out.println("element at index 1:"+x[1]);
+system.out.println("element at index 4:"+x[4]);
+}
+}
